@@ -7,9 +7,6 @@ As a [Javascript](https://www.javascript.com/) newbie point of view, Javascript 
 I think Javascript is an excellent programming language and I am looking forward to learn Javascript and getting one step closer to my career goal.
 
 
-<img class="javascript" src="http://sites.muscogee.k12.ga.us/codingroboticsacademy/wp-content/uploads/sites/68/2016/05/coding-reading.jpg
-">
-
 ## Athletic Software Engineering - the WODs
 
 Taking ICS314, students were introduced with a new method of learning - the WODS(Workout Of the Day). The WOD requires programming accurately and effectively under pressure, by giving time limits. This can be stressful especially for people who tends to panic when being under pressure. However, it is designed to be similar to the real world experiences which will help students prepare for their job interviews. When doing the first WOD, I felt a little nervous not knowing what it is going to be like. However, when coding begin, I noticed I was more focused than to be coding with out a time limit. Working under pressure will definitely help me to code efficiently.
