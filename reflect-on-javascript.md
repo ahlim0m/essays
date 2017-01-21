@@ -7,7 +7,7 @@ As a [Javascript](https://www.javascript.com/) newbie point of view, Javascript 
 I think Javascript is an excellent programming language and I am looking forward to learn Javascript and getting one step closer to my career goal.
 
 
-<img class="javascript" src="http://codecondo.com/wp-content/uploads/2014/04/5-Coding-Challenges-to-Help-You-Train-Your-Brain.jpg?478983
+<img class="javascript" src="http://sites.muscogee.k12.ga.us/codingroboticsacademy/wp-content/uploads/sites/68/2016/05/coding-reading.jpg
 ">
 
 ## Athletic Software Engineering - the WODs
